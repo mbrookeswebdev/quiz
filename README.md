@@ -1,5 +1,13 @@
 # quiz
 
+A multiple-choice general knowledge quiz application.
+
+Technologies used: HTML, CSS, Bootstrap, Javascript, Vue.js.
+
+Purpose: to practice creating single file components using Vue.js.
+
+Deployed for demonstration purposes on DigitalOcean through Cloudways.
+
 ## Project setup
 ```
 npm install
