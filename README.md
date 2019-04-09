@@ -8,7 +8,9 @@ A multiple-choice general knowledge quiz application.
 
 Deployed for demonstration purposes on DigitalOcean through Cloudways. 
 
-[Project screenshots.](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz.html)
+![Quiz](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz.jpg)
+
+[More screenshots.](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz.html)
 
 If you would like to see it live, please send me a message.
 
