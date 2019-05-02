@@ -10,7 +10,9 @@ Deployed for demonstration purposes on DigitalOcean through Cloudways.
 
 ![Quiz](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz.jpg)
 
-[More screenshots.](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz.html)
+![Quiz](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz2.jpg)
+
+![Quiz](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/quiz3.jpg)
 
 If you would like to see it live, please send me a message.
 
